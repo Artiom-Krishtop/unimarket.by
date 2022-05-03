@@ -1,0 +1,9 @@
+<?
+$PERM["artmix.buyoneclick"]["2"]="X";
+$PERM["artmix.buyoneclick"]["5"]="X";
+$PERM["artmix.buyoneclick"]["3"]="X";
+$PERM["artmix.buyoneclick"]["4"]="X";
+$PERM["artmix.buyoneclick"]["6"]="X";
+$PERM["artmix.buyoneclick"]["7"]="X";
+$PERM["artmix.buyoneclick"]["*"]="X";
+?>

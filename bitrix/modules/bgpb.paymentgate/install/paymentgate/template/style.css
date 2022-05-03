@@ -1,0 +1,11 @@
+.pg-error{
+    margin: 1em 0;
+    color: red;
+}
+.pg-message{
+    font-style: italic;
+    margin: 1em 0;
+}
+.pg-radio{
+    margin: 0.5em 0;
+}

@@ -1,0 +1,42 @@
+* About to connect() to mpi-test.bgpb.by port 9443 (#0)
+*   Trying 93.125.122.36...
+* Connected to mpi-test.bgpb.by (93.125.122.36) port 9443 (#0)
+* Initializing NSS with certpath: sql:/etc/pki/nssdb
+* skipping SSL peer certificate verification
+* NSS: client certificate from file
+* 	subject: OU=OPC,O=Belgazprombank,L=MINSK,ST=Belarus,C=BY,CN=mpi-test.bgpb.by
+* 	start date: Jan 31 14:17:00 2019 GMT
+* 	expire date: Jan 31 14:17:00 2021 GMT
+* 	common name: mpi-test.bgpb.by
+* 	issuer: OU=DIS,O=Belgazprombank,L=Minsk,ST=Belarus,C=BY,CN=CA_Test_MPI256
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+* Server certificate:
+* 	subject: CN=mpi-test.bgpb.by
+* 	start date: May 11 00:00:00 2019 GMT
+* 	expire date: Jun 09 12:00:00 2021 GMT
+* 	common name: mpi-test.bgpb.by
+* 	issuer: CN=RapidSSL RSA CA 2018,OU=www.digicert.com,O=DigiCert Inc,C=US
+> POST /payment/rest/getOrderStatus.do HTTP/1.1
+Host: mpi-test.bgpb.by:9443
+Accept: */*
+Content-Length: 488
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=----------------------------410ab222ee53
+
+* Done waiting for 100-continue
+< HTTP/1.1 100 Continue
+< Strict-Transport-Security: max-age=16070400
+< HTTP/1.1 200 OK
+< Date: Thu, 26 Sep 2019 13:17:38 GMT
+< Server: Apache
+< X-XSS-Protection: 1; mode=block
+< X-Content-Type-Options: nosniff
+< X-Frame-Options: SAMEORIGIN
+< Content-Type: text/plain;charset=UTF-8
+< Vary: Accept-Encoding
+< Content-Security-Policy: script-src 'self' 'unsafe-inline'
+< Access-Control-Allow-Origin: http://127.0.0.1:8887
+< Connection: close
+< Transfer-Encoding: chunked
+< 
+* Closing connection 0

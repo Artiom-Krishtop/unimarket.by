@@ -1,0 +1,1 @@
+<span><strong>Доставка по Минску</strong> в течение дня,</span> <span><strong>по&nbsp;Беларуси</strong>&nbsp;-&nbsp;1-3 дня </span>

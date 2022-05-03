@@ -1,0 +1,36 @@
+<?
+$MESS["SP_CI_PAGE_STATUS_TITLE"] = "Состояние системы";
+$MESS["SP_CI_STATUS_TABLE_TITLE"] = "Статус подключения";
+$MESS["SP_CI_STATUS_TABLE_SUBTITLE"] = "Проверка целостности системы и актуальности подключения";
+$MESS["SP_CI_STATUS_TABLE_AUTH_FILE"] = "Файл авторизации (/bitrix/sprod_integr_auth.php)";
+$MESS["SP_CI_STATUS_TABLE_AUTH_FILE_Y"] = "Установлен";
+$MESS["SP_CI_STATUS_TABLE_AUTH_FILE_N"] = "Не установлен";
+$MESS["SP_CI_STATUS_TABLE_STORE_HANDLER_FILE"] = "Файл-обработчик событий интернет-магазина (/bitrix/sprod_integr_bgr_run.php)";
+$MESS["SP_CI_STATUS_TABLE_STORE_HANDLER_FILE_Y"] = "Установлен";
+$MESS["SP_CI_STATUS_TABLE_STORE_HANDLER_FILE_N"] = "Не установлен";
+$MESS["SP_CI_STATUS_TABLE_CRM_HANDLER_FILE"] = "Файл-обработчик событий Б24 (/bitrix/sprod_integr_handler.php)";
+$MESS["SP_CI_STATUS_TABLE_CRM_HANDLER_FILE_Y"] = "Установлен";
+$MESS["SP_CI_STATUS_TABLE_CRM_HANDLER_FILE_N"] = "Не установлен";
+$MESS["SP_CI_STATUS_TABLE_APP_INFO"] = "Наличие данных приложения Б24";
+$MESS["SP_CI_STATUS_TABLE_APP_INFO_Y"] = "Заполнены";
+$MESS["SP_CI_STATUS_TABLE_APP_INFO_N"] = "Не заполнены";
+$MESS["SP_CI_STATUS_TABLE_AUTH_INFO"] = "Наличие данных подключения";
+$MESS["SP_CI_STATUS_TABLE_AUTH_INFO_Y"] = "Сохранены";
+$MESS["SP_CI_STATUS_TABLE_AUTH_INFO_N"] = "Не сохранены";
+$MESS["SP_CI_STATUS_TABLE_CONNECT"] = "Актуальность данных для подключения к Б24";
+$MESS["SP_CI_STATUS_TABLE_CONNECT_Y"] = "Актуально";
+$MESS["SP_CI_STATUS_TABLE_CONNECT_N"] = "Не актуально";
+$MESS["SP_CI_STATUS_TABLE_STORE_EVENTS"] = "Наличие обработчика изменения заказов";
+$MESS["SP_CI_STATUS_TABLE_STORE_EVENTS_Y"] = "Установлен";
+$MESS["SP_CI_STATUS_TABLE_STORE_EVENTS_N"] = "Не установлен";
+$MESS["SP_CI_STATUS_TABLE_CRM_EVENTS"] = "Наличие обработчика изменения сделок";
+$MESS["SP_CI_STATUS_TABLE_CRM_EVENTS_Y"] = "Установлен";
+$MESS["SP_CI_STATUS_TABLE_CRM_EVENTS_N"] = "Не установлен";
+$MESS["SP_CI_STATUS_TABLE_PROFILES"] = "Наличие активных профилей";
+$MESS["SP_CI_STATUS_TABLE_PROFILES_Y"] = "Есть";
+$MESS["SP_CI_STATUS_TABLE_PROFILES_N"] = "Отсутствуют";
+$MESS["SP_CI_SETTINGS_CONNECT_TITLE"] = "Логирование";
+$MESS["SP_CI_STATUS_FILELOG_ACTIVE"] = "Включить логи";
+$MESS["SP_CI_STATUS_FILELOG_CLEAR"] = "Сбросить файл";
+$MESS["SP_CI_STATUS_FILELOG_LINK"] = "Адрес файла с логами:";
+?>

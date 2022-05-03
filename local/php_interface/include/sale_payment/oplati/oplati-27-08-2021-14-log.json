@@ -1,0 +1,730 @@
+{
+    "method": "processDemandPaymentAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "POST",
+            "10015": "{\"paymentMode\":3}",
+            "10023": [
+                "regNum: OPL000025368",
+                "password: Asd12345",
+                "Content-Type: application\/json"
+            ]
+        },
+        "response": {
+            "dynamicQR": "o-plati:\/\/o-cashpay\/dyn\/zBbTHDY4VcnoeLcdCntWy14eR6Y=",
+            "sessionId": 30328
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=30328",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=30328",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=30328",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=30328",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=30328",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=30328",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=30328",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=30328",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=30328",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=30328",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=30328",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=30328",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=30328",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=30328",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=30328",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=30328",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=30328",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=30328",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=30328",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processDemandPaymentAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "POST",
+            "10015": "{\"paymentMode\":3}",
+            "10023": [
+                "regNum: OPL000025368",
+                "password: Asd12345",
+                "Content-Type: application\/json"
+            ]
+        },
+        "response": {
+            "dynamicQR": "o-plati:\/\/o-cashpay\/dyn\/nYNp_ZA1GO0aGowRYyOAgVi1s9Q=",
+            "sessionId": 30329
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=30329",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=30329",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=30329",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=30329",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=30329",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=30329",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=30329",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=30329",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=30329",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=30329",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=30329",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": true,
+            "loyaltyCards": []
+        }
+    }
+}{
+    "method": "processConsumerReadyAction",
+    "response": {
+        "paymentId": 11855068,
+        "paymentType": 1,
+        "sum": 10,
+        "status": 3,
+        "createdDate": "2021-08-27T14:55:41.639+03:00",
+        "paidDate": "2021-08-27T14:55:41.639+03:00",
+        "orderNumber": "725"
+    },
+    "psResult": {
+        "psData": {
+            "PS_STATUS": "Y",
+            "PS_STATUS_CODE": 3,
+            "PS_STATUS_DESCRIPTION": "\u041d\u0435\u0434\u043e\u0441\u0442\u0430\u0442\u043e\u0447\u043d\u043e \u0441\u0440\u0435\u0434\u0441\u0442\u0432",
+            "PS_SUM": "10.00",
+            "PS_CURRENCY": "BYN",
+            "PS_RESPONSE_DATE": {},
+            "PS_INVOICE_ID": 11855068
+        },
+        "data": {
+            "success": 1
+        }
+    }
+}{
+    "method": "processPaymentStatusAwaitAction",
+    "maxExecTime": "30",
+    "psResult": {
+        "psData": {
+            "PS_STATUS": "N",
+            "PS_STATUS_CODE": 3,
+            "PS_STATUS_DESCRIPTION": "\u041d\u0435\u0434\u043e\u0441\u0442\u0430\u0442\u043e\u0447\u043d\u043e \u0441\u0440\u0435\u0434\u0441\u0442\u0432",
+            "PS_CURRENCY": "BYN",
+            "PS_SUM": "10.00",
+            "PS_RESPONSE_DATE": {},
+            "PS_INVOICE_ID": 11855068
+        },
+        "data": {
+            "success": false
+        }
+    }
+}

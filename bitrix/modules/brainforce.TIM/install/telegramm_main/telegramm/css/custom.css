@@ -1,0 +1,89 @@
+/*NOTE: This file is intended for programmers. Aspro technical support is not advised to work with him.*/
+
+/* Examples (uncomment to use):*/
+
+/* Expand site width */
+/* body .wrapper { max-width: 1400px !important;  } */
+
+/* Set site background image */
+/* body {  background: url(image_source) top no-repeat; }
+
+/* Hide compare button */
+/* a.compare_item { display: none !important;  }*/
+
+body{
+    background-size: cover;
+    backdrop-filter: blur(8px);
+}
+
+p{
+    margin-block-start: 0px;
+}
+
+.input_select{
+    margin-top: 5px;
+}
+
+#FormMessageTelegramm{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.MessageSettings{
+    background-color: #fffe90;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 15px 15px 15px 15px;
+    border-radius: 10px;
+}
+
+.LineButton{
+    margin-top: 5px;
+}
+
+.AddNewLineButton {
+    display: inline-block;
+    font-family: arial,sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    color: rgb(68,68,68);
+    text-decoration: none;
+    user-select: none;
+    padding: .2em 1.2em;
+    outline: none;
+    border: 1px solid rgba(0,0,0,.1);
+    border-radius: 2px;
+    background: rgb(245,245,245) linear-gradient(#f4f4f4, #f1f1f1);
+    transition: all .218s ease 0s;
+}
+.AddNewLineButton:hover {
+    color: rgb(24,24,24);
+    border: 1px solid rgb(198,198,198);
+    background: #f7f7f7 linear-gradient(#f7f7f7, #f1f1f1);
+    box-shadow: 0 1px 2px rgba(0,0,0,.1);
+    cursor: pointer;
+}
+.AddNewLineButton:active {
+    color: rgb(51,51,51);
+    border: 1px solid rgb(204,204,204);
+    background: rgb(238,238,238) linear-gradient(rgb(238,238,238), rgb(224,224,224));
+    box-shadow: 0 1px 2px rgba(0,0,0,.1) inset;
+}
+#SendTelegramm {
+    transition: 0.5s;
+    background-color: #3aa5db;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#SendTelegramm:hover {
+    cursor: pointer;
+    background-color: #0d86c2;
+}
+

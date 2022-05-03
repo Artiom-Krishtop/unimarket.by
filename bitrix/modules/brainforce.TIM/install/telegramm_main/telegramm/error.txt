@@ -1,0 +1,17 @@
+TelegramBot\Api\HttpException: Bad Request: message to edit not found in /var/www/admin/data/www/booksir.by/telegramm/vendor/telegram-bot/api/src/BotApi.php:286
+Stack trace:
+#0 /var/www/admin/data/www/booksir.by/telegramm/vendor/telegram-bot/api/src/BotApi.php(263): TelegramBot\Api\BotApi::curlValidate(Resource id #121, '{"ok":false,"er...')
+#1 /var/www/admin/data/www/booksir.by/telegramm/vendor/telegram-bot/api/src/BotApi.php(232): TelegramBot\Api\BotApi->executeCurl(Array)
+#2 /var/www/admin/data/www/booksir.by/telegramm/vendor/telegram-bot/api/src/BotApi.php(1212): TelegramBot\Api\BotApi->call('editMessageText', Array)
+#3 [internal function]: TelegramBot\Api\BotApi->editMessageText(328189332, NULL, '\xD0\x9F\xD0\xBE\xD0\xB4\xD0\xBA\xD0\xB0\xD1\x82\xD0\xB5\xD0...', 'Markdown', false, Object(TelegramBot\Api\Types\Inline\InlineKeyboardMarkup))
+#4 /var/www/admin/data/www/booksir.by/telegramm/vendor/telegram-bot/api/src/Client.php(405): call_user_func_array(Array, Array)
+#5 /var/www/admin/data/www/booksir.by/telegramm/BrainBot.php(211): TelegramBot\Api\Client->__call('editMessageText', Array)
+#6 [internal function]: {closure}(Object(TelegramBot\Api\Types\CallbackQuery))
+#7 /var/www/admin/data/www/booksir.by/telegramm/vendor/telegram-bot/api/src/Client.php(213): ReflectionFunction->invokeArgs(Array)
+#8 [internal function]: TelegramBot\Api\Client::TelegramBot\Api\{closure}(Object(TelegramBot\Api\Types\Update))
+#9 /var/www/admin/data/www/booksir.by/telegramm/vendor/telegram-bot/api/src/Events/Event.php(70): call_user_func(Object(Closure), Object(TelegramBot\Api\Types\Update))
+#10 /var/www/admin/data/www/booksir.by/telegramm/vendor/telegram-bot/api/src/Events/EventCollection.php(64): TelegramBot\Api\Events\Event->executeAction(Object(TelegramBot\Api\Types\Update))
+#11 /var/www/admin/data/www/booksir.by/telegramm/vendor/telegram-bot/api/src/Client.php(122): TelegramBot\Api\Events\EventCollection->handle(Object(TelegramBot\Api\Types\Update))
+#12 /var/www/admin/data/www/booksir.by/telegramm/vendor/telegram-bot/api/src/Client.php(135): TelegramBot\Api\Client->handle(Array)
+#13 /var/www/admin/data/www/booksir.by/telegramm/BrainBot.php(219): TelegramBot\Api\Client->run()
+#14 {main}

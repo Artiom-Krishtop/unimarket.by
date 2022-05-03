@@ -1,0 +1,5 @@
+<?
+$MESS ['MCART_XLS_PROFILE_COLUMN_CUSTOM_FIELDS_COLUMN_ID'] = "Сопоставление столбца";
+$MESS ['MCART_XLS_PROFILE_COLUMN_CUSTOM_FIELDS_NAME'] = "Название переменной";
+$MESS ['MCART_XLS_PROFILE_COLUMN_CUSTOM_FIELDS_VALUE'] = "Значение переменной";
+

@@ -1,0 +1,3009 @@
+{
+    "method": "processDemandPaymentAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "POST",
+            "10015": "{\"paymentMode\":3}",
+            "10023": [
+                "regNum: OPL000025368",
+                "password: Asd12345",
+                "Content-Type: application\/json"
+            ]
+        },
+        "response": {
+            "dynamicQR": "o-plati:\/\/o-cashpay\/dyn\/2W-5ZQ0aciyQYNJBmeKzX8w4X1k=",
+            "sessionId": 56211
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56211",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56211",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56211",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56211",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56211",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56211",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56211",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56211",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56211",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56211",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processDemandPaymentAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "POST",
+            "10015": "{\"paymentMode\":3}",
+            "10023": [
+                "regNum: OPL000025368",
+                "password: Asd12345",
+                "Content-Type: application\/json"
+            ]
+        },
+        "response": {
+            "dynamicQR": "o-plati:\/\/o-cashpay\/dyn\/86GnPpj-sKr1YPPW9-xK-IbTcoo=",
+            "sessionId": 56212
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "isConsumerReady": false
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}{
+    "method": "processConsumerStatusAction",
+    "url": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/demandPayment",
+    "curl": {
+        "options": {
+            "10002": "https:\/\/cashboxapi.o-plati.by\/ms-pay\/pos\/consumerStatus?sessionId=56212",
+            "19913": true,
+            "10102": "",
+            "68": 10,
+            "13": 0,
+            "52": true,
+            "84": 2,
+            "10036": "GET",
+            "10023": [
+                "regNum: OPL000025368"
+            ]
+        },
+        "response": {
+            "code": "400",
+            "internalCode": "166",
+            "devMessage": "RegNum OPL000025368: \u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0430 \u0438\u0441\u0442\u0435\u043a\u043b\u043e!",
+            "userMessage": {
+                "lang_en": "Timeout exceeded.",
+                "lang_ru": "\u041f\u0440\u0435\u0432\u044b\u0448\u0435\u043d\u043e \u0432\u0440\u0435\u043c\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043a\u043b\u0438\u0435\u043d\u0442\u0430."
+            }
+        }
+    }
+}
