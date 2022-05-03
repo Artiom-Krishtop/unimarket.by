@@ -1,4 +1,6 @@
 /bitrix/backup
+/bitrix/admin
+/bitrix/updates
 /bitrix/cache
 /bitrix/crontab
 /bitrix/managed_cache
@@ -91,8 +93,6 @@ bitrix/catalog_export
 /bitrix/modules/xdimport
 /bitrix/modules/xmpp
 /bitrix/modules/begateway.payment
-
-/bitrix/templates
 
 /bitrix/php_interface/crontab
 /bitrix/php_interface/dbconn.php

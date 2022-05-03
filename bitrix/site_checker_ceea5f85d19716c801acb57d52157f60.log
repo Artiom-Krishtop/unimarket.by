@@ -1,20 +1,19 @@
-2022-Apr-12 14:33:52 Наличие необходимых модулей php (check_php_modules): Ok
+2022-May-03 15:07:38 Наличие необходимых модулей php (check_php_modules): Ok
 Все необходимые модули установлены
-2022-Apr-12 14:33:52 Обязательные параметры PHP (check_php_settings): Ok
+2022-May-03 15:07:38 Обязательные параметры PHP (check_php_settings): Ok
 Настройки правильные
-2022-Apr-12 14:33:52 Модули веб-сервера (check_security): Ok
+2022-May-03 15:07:38 Модули веб-сервера (check_security): Ok
 Конфликтов не выявлено
-2022-Apr-12 14:33:52 Значения переменных сервера (check_server_vars): Ok
+2022-May-03 15:07:38 Значения переменных сервера (check_server_vars): Ok
 Корректные
-2022-Apr-12 14:33:52 Сохранение сессии (check_session): Ok
+2022-May-03 15:07:38 Сохранение сессии (check_session): Ok
 50% done
-2022-Apr-12 14:33:52 Параметры настройки UTF (mbstring и константа BX_UTF) (check_mbstring): Ok
+2022-May-03 15:07:38 Параметры настройки UTF (mbstring и константа BX_UTF) (check_mbstring): Ok
 Правильные. Сайт работает в UTF кодировке
-2022-Apr-12 14:33:52 Служебные скрипты в корне сайта (check_install_scripts): Ok
+2022-May-03 15:07:38 Служебные скрипты в корне сайта (check_install_scripts): Ok
 Отсутствуют
-2022-Apr-12 14:33:52 Работа с сокетами (check_socket): Ok
-Connection to unimarket.by:80	Success
+2022-May-03 15:07:38 Работа с сокетами (check_socket): Fail
+Connection to test.unimarket.by:80	Fail
+Socket error [0]: php_network_getaddresses: getaddrinfo failed: Name or service not known
 
-Успешно
-2022-Apr-12 14:33:52 Выполнение агентов на cron (check_bx_crontab): Warning
-Замечание. Агенты выполняются на хитах, рекомендуется перевести выполнение агентов на cron
+Ошибка! Не работает

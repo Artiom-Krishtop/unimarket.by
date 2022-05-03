@@ -1,0 +1,151 @@
+.ax-buyoneclick-form p {
+    margin: 0 0 10px;
+}
+
+.ax-buyoneclick-form-msg-error-row,
+.ax-buyoneclick-form-msg-success-row {
+    margin-bottom: 15px;
+}
+
+.ax-buyoneclick-form-msg-error-row {
+    color: #f00;
+}
+
+.ax-buyoneclick-form-msg-success-row {
+    color: green;
+}
+
+#ax-buyoneclick-popup-window .popup-window-content {
+    position: relative;
+}
+
+#ax-buyoneclick-popup-window.process .popup-window-content:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: #fff;
+    opacity: 0.6;
+    filter: alpha(opacity=30);
+    z-index: 100;
+    display: block;
+    cursor: wait;
+}
+
+/*------*/
+.ax-buyoneclick-inner {
+    padding: 20px 20px;
+    min-width: 350px;
+}
+
+.popup-window-close-icon {
+    margin: 10px 5px 0 0;
+}
+
+.ax-buyoneclick-popup-window {
+    border: 1px solid #d1d1d1;
+    border-radius: 0;
+}
+
+.ax-buyoneclick-form-title {
+    font-size: 26px;
+    color: #333;
+    margin: 10px 0 10px 0;
+}
+
+.ax-buyoneclick-label-name {
+    display: block;
+    color: #788791;
+    font-size: 13px;
+    margin-top: 25px;
+}
+
+.ax-buyoneclick-form .ax-buyoneclick-form-submit {
+    color: white;
+    width: 85px;
+    height: 35px;
+    border-radius: 4px;
+    border: none;
+    background: #0083d1;
+    margin-top: 20px;
+}
+
+.ax-buyoneclick-form .ax-buyoneclick-form-submit:hover {
+    background: #53A4D8;
+}
+
+.ax-buyoneclick-form .ax-buyoneclick-input-s {
+    border-radius: 4px;
+    border: 1px solid #ccd5db;
+    width: 100%;
+    padding: 10px;
+    background: #f8fafc;
+    height: inherit;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.ax-buyoneclick-form .ax-buyoneclick-textarea-s {
+    border-radius: 4px;
+    border: 1px solid #ccd5db;
+    width: 100%;
+    background: #f8fafc;
+    margin: 0;
+    height: inherit;
+    box-sizing: border-box;
+}
+
+.ax-buyoneclick-form .ax-buyoneclick-form-msg-error-row {
+    background: #f2dede;
+    border-radius: 3px;
+    padding: 10px;
+}
+
+.ax-buyoneclick-form .ax-buyoneclick-form-msg-success-row {
+    background: #70bb18;
+    border-radius: 3px;
+    color: white;
+    padding: 10px;
+}
+
+.ax-buyoneclick-captcha-block {
+    margin-bottom: 10px;
+}
+
+.ax-buyoneclick-captcha-block .ax-buyoneclick-form-captcha-img {
+    cursor: pointer;
+}
+
+.ax-buyoneclick-form .ax-licence-block {
+    max-width: 250px;
+    margin-top: 24px;
+}
+
+.ax-buyoneclick-form .ax-licence-block .ax-buyoneclick-label-name {
+    margin-top: 0;
+    padding-left: 20px;
+    padding-top: 2px;
+}
+
+.ax-buyoneclick-form .ax-licence-block .ax-licence-block-input {
+    float: left;
+}
+
+.ax-buyoneclick-form .ax-buyoneclick-text {
+    max-width: 330px;
+    display: block;
+    color: #788791;
+    font-size: 13px;
+    margin-top: 11px;
+    margin-bottom: 20px;
+}
+
+.ax-buyoneclick-form .ax-buyoneclick-text a {
+    text-decoration: underline;
+}
+
+.ax-buyoneclick-form .ax-buyoneclick-form-submit.ax-disabled {
+    background: #cfd3d8;
+}
