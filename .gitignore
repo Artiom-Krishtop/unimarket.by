@@ -100,7 +100,7 @@ bitrix/catalog_export
 /logs
 /upload
 /.htaccess
-/*.log
+*.log
 /*.sql
 /*.txt
 /*.dt
